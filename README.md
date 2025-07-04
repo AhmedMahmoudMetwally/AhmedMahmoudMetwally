@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning: Predictive Modeling, Swarm Intelligence Algorithms, and Big Data Processing Tools.
 -  🤝 I’m looking to collaborate on: AI projects, Email Classification, and Data Analytics tasks .
 - 📫 How to reach me ...
--  LinkedIn: [Ahmed Mahmoud Mohamed](https://www.linkedin.com/in/ahmed-mahmoud-mohamed-3b05912a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- LinkedIn
+
+
 -⚡ Fun Fact : 
 - I am currently working on a Plant Disease Classification project using Deep Learning with the PlantVillage Dataset.
 - Note: Feel free to contact me for academic collaboration or open-source projects!.
