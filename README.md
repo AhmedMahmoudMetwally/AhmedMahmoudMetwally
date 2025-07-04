@@ -4,8 +4,8 @@
 - 👀 I’m interested in: Artificial Intelligence algorithms, Machine Learning, and Data Science & Analysis.
 - 🌱 I’m currently learning: Predictive Modeling, Swarm Intelligence Algorithms, and Big Data Processing Tools.
 -  🤝 I’m looking to collaborate on: AI projects, Email Classification, and Data Analytics tasks .
-- 📫 How to reach me ...
-- LinkedIn
+📫 How to reach me ...  
+  - [LinkedIn](https://www.linkedin.com/in/ahmed-mahmoud-mohamed-3b05912a1)
 
 
 -⚡ Fun Fact : 
