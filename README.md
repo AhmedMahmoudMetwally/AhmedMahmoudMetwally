@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning: Predictive Modeling, Swarm Intelligence Algorithms, and Big Data Processing Tools.
 -  🤝 I’m looking to collaborate on: AI projects, Email Classification, and Data Analytics tasks .
 📫 How to reach me ...  
-  - [LinkedIn](https://www.linkedin.com/in/ahmed-mahmoud-mohamed-3b05912a1)
+  -[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mahmoud-metwally-3b05912a1)
+
 
 
 -⚡ Fun Fact : 
