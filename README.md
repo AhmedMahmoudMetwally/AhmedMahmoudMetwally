@@ -71,14 +71,32 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudMetwally&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudMetwally&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<h3 align="center">🚀 Quick Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedMahmoudMetwally&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <b>Public Repositories:</b> 13 &nbsp;|&nbsp;
+  <b>Stars:</b> 10 ⭐ &nbsp;|&nbsp;
+  <b>Followers:</b> 14 👥 &nbsp;|&nbsp;
+  <b>Member Since:</b> 2022 🎯
 </p>
+
+---
+
+### 🧠 Tech Languages Overview
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,mysql,aws,git,github" />
+</p>
+
+---
+
+### 🌟 Highlights
+- 💻 **13+ projects** on Data Science, AI, and Cloud Computing  
+- 🧮 Skilled in **Python, Java, SQL, and Machine Learning frameworks**  
+- ☁️ Hands-on experience with **AWS, Huawei Cloud, and Streamlit apps**  
+- 🎯 Focused on building **real-world intelligent systems** (Exam Scheduler, Connect 4 AI, Game Sales Analysis)
+
+---
+
 
 
 ---
