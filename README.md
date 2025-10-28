@@ -70,6 +70,7 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 <h3 align="center">🚀 Quick Stats</h3>
 
