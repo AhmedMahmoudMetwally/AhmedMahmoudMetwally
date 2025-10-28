@@ -67,20 +67,19 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
 ---
 
 ### 📈 GitHub Activity Overview
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&bg_color=0D1117&color=E94D5F&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMahmoudMetwally&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudMetwally&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudMetwally&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMahmoudMetwally&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedMahmoudMetwally&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedMahmoudMetwally&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AhmedMahmoudMetwally&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
