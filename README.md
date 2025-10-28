@@ -27,16 +27,19 @@
 
 | Project | Description | Repo |
 |----------|--------------|------|
-| 🧮 **Exam Scheduling System** | Optimization using Genetic Algorithms | [View Project](https://github.com/AhmedMahmoudMetwally/Exam-Scheduling-System) |
-| 📈 **Employee Attrition Prediction** | XGBoost model with SHAP explainability | [View Project](https://github.com/AhmedMahmoudMetwally/Employee-Attrition-XGBoost) |
-| 🎮 **Connect Four AI Game** | Built with Minimax Algorithm + Alpha-Beta Pruning | [View Project](https://github.com/AhmedMahmoudMetwally/Connect-Four-AI) |
+| 🧮 **Exam Scheduling System** | Optimization system using Genetic Algorithms to minimize exam conflicts | [View Project](https://github.com/AhmedMahmoudMetwally/Exam-Scheduling-System) |
+| 🎮 **Connect 4 Game (AI Edition)** | Game built using Minimax Algorithm with Alpha-Beta Pruning | [View Project](https://github.com/AhmedMahmoudMetwally/Connect-4-Game) |
+| 📊 **Video Games Sales Analysis** | Exploratory Data Analysis & Regression models for predicting global sales | [View Project](https://github.com/AhmedMahmoudMetwally/Video-games-sales-analysis) |
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudMetwally&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudMetwally&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AhmedMahmoudMetwally&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMahmoudMetwally&theme=radical" alt="Profile Details" />
 </p>
 
 ---
