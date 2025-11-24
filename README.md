@@ -91,7 +91,7 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
 ---
 
 ### 🌟 Highlights
-- 💻 **13+ projects** on Data Science, AI, and Cloud Computing  
+- 💻 **14+ projects** on Data Science, AI, and Cloud Computing  
 - 🧮 Skilled in **Python, Java, SQL, and Machine Learning frameworks**  
 - ☁️ Hands-on experience with **AWS, Huawei Cloud, and Streamlit apps**  
 - 🎯 Focused on building **real-world intelligent systems** (Exam Scheduler, Connect 4 AI, Game Sales Analysis)
