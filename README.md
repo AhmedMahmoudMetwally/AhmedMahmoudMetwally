@@ -75,7 +75,7 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
 <h3 align="center">🚀 Quick Stats</h3>
 
 <p align="center">
-  <b>Public Repositories:</b> 14 &nbsp;|&nbsp;
+  <b>Public Repositories:</b> 13 &nbsp;|&nbsp;
   <b>Stars:</b> 10 ⭐ &nbsp;|&nbsp;
   <b>Followers:</b> 14 👥 &nbsp;|&nbsp;
   <b>Member Since:</b> 2022 🎯
