@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071D16,50:123D2B,100:34443D&text=Ahmed%20Mahmoud&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
 
