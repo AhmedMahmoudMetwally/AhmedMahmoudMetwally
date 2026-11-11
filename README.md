@@ -1,21 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Mahmoud
-
-### 🤖 Data Science & AI Undergraduate
-
-**Machine Learning • Deep Learning • Computer Vision • NLP • Data Analytics**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123524,100:2E7D32&height=230&section=header&text=Ahmed%20Mahmoud&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%26%20AI%20Undergraduate&descAlignY=60&descSize=20&descColor=7EE787"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/ahmed-mahmoud-metwally-3b05912a1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Natural+Language+Processing;AI+Team+Lead+at+IEEE+Obour;Turning+Data+Into+Intelligent+Solutions" />
 </a>
+
+<br><br>
+
+<a href="https://github.com/AhmedMahmoudMetwally">
+<img src="https://img.shields.io/badge/GitHub-AhmedMahmoudMetwally-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-mahmoud-metwally-3b05912a1">
+<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:ahmdmhmedmhmd820@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AhmedMahmoudMetwally">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -26,13 +30,17 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
 class AhmedMahmoud:
 
+    name = "Ahmed Mahmoud"
     role = "Data Science & AI Undergraduate"
     university = "Alexandria National University 🇪🇬"
+    graduation = 2027
+
+    current_role = "AI Team Lead @ IEEE Obour"
 
     interests = [
         "Machine Learning",
@@ -44,20 +52,16 @@ class AhmedMahmoud:
         "Cloud Computing"
     ]
 
-    current_role = "AI Team Lead @ IEEE Obour"
-
-    goal = "Build practical AI solutions for real-world problems"
-
     philosophy = "Learn → Build → Experiment → Improve"
 ```
 
-I'm a **Data Science & Artificial Intelligence undergraduate** passionate about transforming data into practical and intelligent solutions.
+I'm a **Data Science & Artificial Intelligence undergraduate** interested in building practical AI and data-driven solutions.
 
-My interests span the complete journey from **data preprocessing and analysis** to **machine learning, deep learning, computer vision, NLP, and deployment**.
+I enjoy working across the complete data-to-AI pipeline — from **data cleaning and exploratory analysis** to **machine learning, deep learning, computer vision, NLP, and deployment**.
 
-I enjoy working on projects where AI is not just a model, but part of a complete solution.
+I'm particularly interested in turning technical concepts into projects that solve real-world problems.
 
-> **"Don't just train models. Build solutions."** 🚀
+> 💡 **Don't just train models. Build solutions.**
 
 ---
 
@@ -65,51 +69,55 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 Machine Learning
+<td width="50%" valign="top">
+
+## 🤖 Machine Learning
 
 - Predictive Modeling
-- Classification & Regression
+- Classification
+- Regression
 - Feature Engineering
 - Model Evaluation
 - Ensemble Learning
-- XGBoost
 - Scikit-learn
+- XGBoost
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Deep Learning
+## 🧠 Deep Learning
 
 - Neural Networks
 - CNNs
 - Image Classification
 - Computer Vision
 - Model Training
-- Transfer Learning fundamentals
+- Transfer Learning Fundamentals
 
 </td>
+
 </tr>
 
 <tr>
-<td>
 
-### 📊 Data Science
+<td width="50%" valign="top">
+
+## 📊 Data Science
 
 - Data Cleaning
 - Exploratory Data Analysis
 - Statistical Analysis
 - Data Visualization
 - Feature Engineering
-- Business Insights
+- Predictive Analytics
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 📝 NLP & AI
+## 📝 NLP & AI
 
 - Natural Language Processing
 - Text Processing
@@ -119,14 +127,16 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 - Intelligent Systems
 
 </td>
+
 </tr>
 
 <tr>
-<td>
 
-### ☁️ Cloud & Big Data
+<td width="50%" valign="top">
 
-- AWS
+## ☁️ Cloud & Big Data
+
+- AWS Fundamentals
 - Huawei Cloud
 - Big Data Technologies
 - Linux Fundamentals
@@ -135,18 +145,19 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🛠️ AI Applications
+## 🛠️ AI Applications
 
 - Streamlit
 - Gradio
-- Jupyter
+- Jupyter Notebook
 - Model Deployment
 - Interactive Dashboards
 - Git & GitHub
 
 </td>
+
 </tr>
 </table>
 
@@ -162,6 +173,8 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 
 </p>
 
+---
+
 ## 🤖 Machine Learning & Deep Learning
 
 <p align="center">
@@ -176,7 +189,9 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 
 </p>
 
-## 📊 Data Visualization
+---
+
+## 📊 Data Visualization & Analytics
 
 <p align="center">
 
@@ -187,7 +202,9 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 
 </p>
 
-## ☁️ Cloud & Development Tools
+---
+
+## ☁️ Cloud & Development
 
 <p align="center">
 
@@ -205,141 +222,209 @@ I enjoy working on projects where AI is not just a model, but part of a complete
 
 # 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-## 📊 Employee Churn Analysis & Prediction
+<td width="50%" valign="top">
 
-**End-to-End Machine Learning Application**
+## 📊 Employee Churn Analysis
 
-</div>
+**End-to-End Machine Learning**
 
-An end-to-end Machine Learning project designed to predict employee attrition and provide interpretable insights into factors affecting employee churn.
+15,000+ employee records analyzed and used to build predictive models for employee attrition.
 
-### 🔥 Highlights
+### Highlights
 
-- 📌 **15,000+ records**
-- 🧹 Data preprocessing & cleaning
-- 🔎 Exploratory Data Analysis
-- ⚙️ Feature Engineering
-- 🌳 Decision Tree
-- 🌲 Random Forest
-- 🚀 XGBoost
-- 📈 Model comparison & evaluation
-- 🔍 SHAP explainability
-- 🌐 Streamlit deployment
-
-<p align="center">
+- Data Cleaning
+- EDA
+- Feature Engineering
+- Decision Tree
+- Random Forest
+- XGBoost
+- Model Evaluation
+- SHAP Explainability
+- Streamlit Deployment
 
 <a href="https://github.com/AhmedMahmoudMetwally/Employee-Churn-Analysis-">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://aqejdzweesk9pwetegkkzw.streamlit.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
-</p>
+</td>
 
----
+<td width="50%" valign="top">
 
 ## 🧮 Exam Scheduling System
 
-### Genetic Algorithm Optimization
+**Genetic Algorithm Optimization**
 
-An optimization system designed to generate efficient university examination schedules while minimizing conflicts and improving resource utilization.
+An optimization system for generating university examination schedules while reducing conflicts and improving resource utilization.
 
-**Core Concepts**
+### Concepts
 
-`Genetic Algorithms` • `Optimization` • `Constraints` • `Scheduling` • `Resource Allocation`
-
-<p align="center">
+- Genetic Algorithms
+- Constraint Handling
+- Scheduling
+- Optimization
+- Room Allocation
+- Conflict Minimization
 
 <a href="https://github.com/AhmedMahmoudMetwally/Exam-Scheduling-System">
-<img src="https://img.shields.io/badge/View%20Project-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
 
----
+</tr>
 
-## 🎮 Connect 4 — AI Edition
+<tr>
 
-### Minimax + Alpha-Beta Pruning
+<td width="50%" valign="top">
 
-A Connect Four game powered by classical AI search algorithms.
+## 🎮 Connect 4 AI
 
-**AI Concepts**
+**Minimax + Alpha-Beta Pruning**
 
-`Minimax` • `Alpha-Beta Pruning` • `Game Trees` • `Decision Making`
+A Connect Four game implementing classical AI search and decision-making algorithms.
 
-<p align="center">
+### Concepts
+
+- Minimax
+- Alpha-Beta Pruning
+- Game Trees
+- Decision Making
+- Search Algorithms
 
 <a href="https://github.com/AhmedMahmoudMetwally/Connect-4-Game">
-<img src="https://img.shields.io/badge/View%20Project-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Video Games Sales Analysis
+
+**Data Analysis & Regression**
+
+Exploring global video game sales patterns through data analysis, visualization, and predictive modeling.
+
+### Concepts
+
+- Data Cleaning
+- EDA
+- Visualization
+- Regression
+- Statistical Analysis
+- Predictive Modeling
+
+<a href="https://github.com/AhmedMahmoudMetwally/Video-games-sales-analysis">
+<img src="https://img.shields.io/badge/Repository-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 👁️ Computer Vision Projects
+# 👁️ Computer Vision
 
-Exploring computer vision through practical deep learning projects including:
+I'm building practical Computer Vision experience through deep learning and image-processing projects.
 
-- 🖼️ CNN image classification
-- 🔢 CIFAR-10 classification
-- 🎯 YOLO object detection
-- 🧠 Image feature extraction
-- 📊 Model evaluation
+### Projects & Concepts
+
+```text
+🖼️ Image Classification
+        ↓
+🧠 Convolutional Neural Networks
+        ↓
+🎯 Object Detection
+        ↓
+📊 Model Evaluation
+        ↓
+🚀 Practical AI Applications
+```
+
+### Experience Includes
+
+- CNN-based image classification
+- CIFAR-10
+- YOLO object detection
+- Image preprocessing
+- Feature extraction
+- Deep learning model evaluation
 
 ---
 
-## 📊 Data Analysis Projects
+# 📝 Natural Language Processing
 
-Projects focused on transforming raw datasets into meaningful insights using:
+Currently developing my knowledge in **Natural Language Processing** and exploring how machine learning can be applied to text and language data.
 
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly`
+### Areas of Interest
 
-Including exploratory analysis, visualization, regression, and predictive modeling.
+`Text Preprocessing` • `Feature Extraction` • `Text Classification` • `NLP Models` • `Language Applications`
 
 ---
 
 # 🧠 AI Journey
 
 ```text
-Data
- │
- ▼
-Cleaning & Preparation
- │
- ▼
-Exploratory Analysis
- │
- ▼
-Feature Engineering
- │
- ▼
-Machine Learning
- │
- ├── Classification
- ├── Regression
- └── Ensemble Models
- │
- ▼
-Deep Learning
- │
- ├── Neural Networks
- ├── CNN
- └── Computer Vision
- │
- ▼
-Deployment
- │
- ├── Streamlit
- └── Gradio
- │
- ▼
-Real-World AI Solution 🚀
+                         ┌─────────────────┐
+                         │      DATA       │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                     ┌────────────────────────┐
+                     │ Cleaning & Preparation │
+                     └───────────┬────────────┘
+                                 │
+                                 ▼
+                     ┌────────────────────────┐
+                     │ Exploratory Data       │
+                     │ Analysis               │
+                     └───────────┬────────────┘
+                                 │
+                                 ▼
+                     ┌────────────────────────┐
+                     │ Feature Engineering    │
+                     └───────────┬────────────┘
+                                 │
+                                 ▼
+                     ┌────────────────────────┐
+                     │   MACHINE LEARNING     │
+                     └───────────┬────────────┘
+                                 │
+                ┌────────────────┼────────────────┐
+                ▼                ▼                ▼
+          Classification     Regression      Ensembles
+                │                │                │
+                └────────────────┼────────────────┘
+                                 │
+                                 ▼
+                     ┌────────────────────────┐
+                     │    DEEP LEARNING       │
+                     └───────────┬────────────┘
+                                 │
+                         ┌───────┴───────┐
+                         ▼               ▼
+                       CNNs        Computer Vision
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                     ┌────────────────────────┐
+                     │      DEPLOYMENT        │
+                     └───────────┬────────────┘
+                                 │
+                          Streamlit / Gradio
+                                 │
+                                 ▼
+                    🚀 REAL-WORLD AI SOLUTION
 ```
 
 ---
@@ -348,15 +433,17 @@ Real-World AI Solution 🚀
 
 ## 🤖 AI Team Lead — IEEE Obour
 
-Currently contributing as **AI Team Lead at IEEE Obour**, focusing on AI-related technical activities, learning initiatives, and project development.
+Currently serving as **AI Team Lead at IEEE Obour**, contributing to AI-related technical activities, learning initiatives, and project development.
 
-My goal in technical leadership is simple:
+My approach to technical leadership:
 
 > **Learn together. Build together. Grow together.**
 
 ---
 
 # 🎓 Education
+
+<div align="center">
 
 ### Alexandria National University 🇪🇬
 
@@ -366,45 +453,41 @@ My goal in technical leadership is simple:
 
 **Expected Graduation:** 2027
 
+</div>
+
 ---
 
 # 📜 Training & Certifications
 
-### 🧠 Artificial Intelligence
+<table align="center">
 
-- NTI — Machine Learning
-- NTI — Deep Learning for Computer Vision
-- ITI — AI / Generative AI Fundamentals
-- NVIDIA — AI / GenAI Fundamentals
+<tr>
+<td align="center">🤖<br><b>Machine Learning</b><br>NTI / DEY</td>
+<td align="center">🧠<br><b>Deep Learning</b><br>NTI</td>
+<td align="center">👁️<br><b>Computer Vision</b><br>NTI</td>
+</tr>
 
-### ☁️ Cloud Computing
+<tr>
+<td align="center">☁️<br><b>Cloud Computing</b><br>NTI / AWS</td>
+<td align="center">📊<br><b>Big Data</b><br>NTI / Creativa</td>
+<td align="center">🚀<br><b>Entrepreneurship</b><br>InnovEgypt</td>
+</tr>
 
-- NTI — Cloud Computing
-- AWS Academy — Cloud Foundations
-- Huawei Cloud Training
-
-### 📊 Big Data
-
-- NTI — Huawei Big Data
-- Creativa — Big Data Engineering & Foundations
-
-### 🚀 Entrepreneurship
-
-- InnovEgypt — Technology & Entrepreneurship
+</table>
 
 ---
 
 # 🌱 Currently Learning
 
-<div align="center">
+<p align="center">
 
-### 🤖 Deep Learning
-### 👁️ Computer Vision
-### 📝 Natural Language Processing
-### ☁️ Cloud & Big Data
-### ⚙️ Machine Learning Engineering
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2E7D32?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-5E35B1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Big%20Data-1565C0?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-455A64?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-</div>
+</p>
 
 ---
 
@@ -413,54 +496,180 @@ My goal in technical leadership is simple:
 <table align="center">
 
 <tr>
-<td align="center">🤖<br><b>AI</b><br>Build stronger AI systems</td>
-<td align="center">🧠<br><b>Deep Learning</b><br>Improve DL skills</td>
-<td align="center">👁️<br><b>Computer Vision</b><br>Build practical CV projects</td>
+
+<td align="center" width="160">
+
+### 🤖
+
+**AI**
+
+Build stronger AI systems
+
+</td>
+
+<td align="center" width="160">
+
+### 🧠
+
+**Deep Learning**
+
+Strengthen DL skills
+
+</td>
+
+<td align="center" width="160">
+
+### 👁️
+
+**Computer Vision**
+
+Build practical CV projects
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">📝<br><b>NLP</b><br>Explore language applications</td>
-<td align="center">☁️<br><b>Cloud</b><br>Strengthen deployment skills</td>
-<td align="center">💼<br><b>Career</b><br>Gain professional AI experience</td>
+
+<td align="center">
+
+### 📝
+
+**NLP**
+
+Explore language applications
+
+</td>
+
+<td align="center">
+
+### ☁️
+
+**Cloud**
+
+Improve deployment skills
+
+</td>
+
+<td align="center">
+
+### 💼
+
+**Career**
+
+Gain professional AI experience
+
+</td>
+
 </tr>
 
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudMetwally&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&bg_color=0D1117&color=7EE787&line=2E7D32&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudMetwally&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+# 📊 GitHub Overview
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AhmedMahmoudMetwally&theme=github-dark-blue&hide_border=true"/>
+| 📌 | Value |
+|---|---|
+| 👤 **Username** | `AhmedMahmoudMetwally` |
+| 📂 **Focus** | Data Science & AI |
+| 🤖 **Primary Language** | Python |
+| 🧠 **Main Areas** | ML • DL • CV • NLP |
+| 👨‍💻 **Current Role** | AI Team Lead — IEEE Obour |
+| 🎓 **Graduation** | 2027 |
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 💻 My Development Workflow
 
-<p align="center">
+```text
+        💡 Problem
+            │
+            ▼
+      🔎 Understand Data
+            │
+            ▼
+      🧹 Clean & Prepare
+            │
+            ▼
+       📊 Explore Data
+            │
+            ▼
+     ⚙️ Engineer Features
+            │
+            ▼
+      🤖 Train Models
+            │
+            ▼
+     📈 Evaluate Results
+            │
+            ▼
+      🔍 Explain Models
+            │
+            ▼
+        🚀 Deploy
+            │
+            ▼
+     🌍 Real-World Impact
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&bg_color=0D1117&color=7EE787&line=2E7D32&point=FFFFFF&area=true&hide_border=true"/>
+---
 
-</p>
+# 🌟 What I Believe In
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+### 🧠 Learn
+
+Never stop improving.
+
+</td>
+
+<td align="center">
+
+### 🛠️ Build
+
+Turn knowledge into projects.
+
+</td>
+
+<td align="center">
+
+### 🔬 Experiment
+
+Test. Fail. Improve.
+
+</td>
+
+<td align="center">
+
+### 🚀 Impact
+
+Build things that matter.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -486,12 +695,14 @@ My goal in technical leadership is simple:
 
 <div align="center">
 
-### 💡 Learn. Build. Experiment. Improve.
-
-**Thanks for visiting my profile! ⭐**
+### 🚀 Learn. Build. Experiment. Improve.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=100&section=footer"/>
+**Thanks for visiting my profile! ⭐**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:123524,100:0D1117&height=120&section=footer"/>
 
 </div>
