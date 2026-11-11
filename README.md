@@ -67,14 +67,8 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
 ---
 
 
-### 📈 GitHub Activity Overview
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudMetwally&bg_color=0D1117&color=2ECC71&line=2ECC71&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://raw.githubusercontent.com/AhmedMahmoudMetwally/AhmedMahmoudMetwally/main/assets/github-activity.svg" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 
