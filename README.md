@@ -67,12 +67,7 @@ I'm constantly exploring the intersection between **Machine Learning**, **Cloud 
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedMahmoudMetwally/AhmedMahmoudMetwally/main/assets/github-activity.svg" width="100%" alt="GitHub Activity Graph"/>
-</p>
 
-
-<h3 align="center">🚀 Quick Stats</h3>
 
 <p align="center">
   <b>Public Repositories:</b> 13 &nbsp;|&nbsp;
